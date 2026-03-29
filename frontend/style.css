@@ -323,10 +323,6 @@ button {
   animation: rotate-glow 6s linear infinite;
 }
 
-@keyframes rotate-glow {
-  0%   { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
 
 .photo-border {
   position: relative;
