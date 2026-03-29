@@ -1,0 +1,19 @@
+{
+  "name": "sneha-portfolio",
+  "version": "1.0.0",
+  "description": "Sneha Blessy's Full Stack Portfolio with Node.js backend and PostgreSQL",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node backend/server.js"
+  },
+  "keywords": ["portfolio", "express", "postgresql"],
+  "author": "Sneha Blessy",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  }
+}
