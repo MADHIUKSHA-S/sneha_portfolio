@@ -4,7 +4,7 @@
 
 // ── Config ──
 // Change this to your deployed backend URL on Render
-const API_BASE_URL = window.location.origin; // works when backend serves frontend
+const API_BASE_URL = "https://sneha-portfolio-backend.onrender.com"; // works when backend serves frontend
 
 // ══════════════════════════════════════
 // TYPEWRITER
